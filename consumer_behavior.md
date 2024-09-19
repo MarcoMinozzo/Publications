@@ -113,5 +113,5 @@ In our case study, 1 million records were collected, i.e., 1 million sessions wi
 
 ![Table](https://github.com/user-attachments/assets/fd4ee7f2-8476-4ca3-aaf4-72556f458593)
 
-![Code Python](../MarcoMinozzo/consumer_behaviour.ipynb)
+![Code Python](consumer_behaviour.ipynb)
 
